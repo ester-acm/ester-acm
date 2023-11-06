@@ -21,7 +21,6 @@
 
 &nbsp;
 
-&nbsp;
 
 
 <h2 align="left">Ferramentas Usadas:</h1>  
