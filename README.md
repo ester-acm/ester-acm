@@ -11,17 +11,23 @@
 <img width=46% align="right" src="https://github-readme-stats.vercel.app/api?username=ester-acm&hide=contribs,issues&count_private=true&show_icons=true&theme=midnight-purple"/>
 </div>
 
+&nbsp;
 
----
+&nbsp;
 
-<h2>Ferramentas Usadas:</h1>  
+
+
+<h2 align="left">Ferramentas Usadas:</h1>  
 
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=9745F5)
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=9745F5)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=9745F5)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=9745F5)
-
+![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva&logoColor=9745F5)
+![Opera](https://img.shields.io/badge/Opera-black?style=for-the-badge&logo=Opera&logoColor=9745F5)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=9745F5)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=9745F5)
 
 
 
