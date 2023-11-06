@@ -8,7 +8,7 @@
 <h2>Estatisticas do Github:</h1>  
 <div  align="center" style="margin-bottom:100px">
 <img width=50% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=ester-acm&theme=midnight-purple&mode=weekly" />
-<img width=46% align="right" src="https://github-readme-stats.vercel.app/api?username=ester-acm&hide=contribs,issues&count_private=true&show_icons=true&theme=midnight-purple"/>
+<img width=44% align="right" src="https://github-readme-stats.vercel.app/api?username=ester-acm&hide=contribs,issues&count_private=true&show_icons=true&theme=midnight-purple"/>
 </div>
 
 &nbsp;
