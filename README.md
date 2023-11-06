@@ -30,6 +30,12 @@
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=9745F5)
 
 
+<h2 align="left">Linguagens de Programação:</h1>  
+
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=9745F5)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=9745F5)
+![Haskell](https://img.shields.io/badge/Haskell-black?style=for-the-badge&logo=haskell&logoColor=9745F5)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=9745F5)
 
  <!--
 **ester-acm/ester-acm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
