@@ -1,4 +1,13 @@
 <h1 align="center">Ester Carvalho</h1>  
+<p align="center"> Me interesso por:
+ 
+- 🤖 Inteligência Artificial 
+- 🦾 Aprendizado de Máquina
+- 👩🏻‍💻 Full Stack
+- 🔐 Cibersegurança
+- ⚛️ Data Science
+
+</p>
 <h2> Contatos:</h1> 
 
 <!--[![Slack](https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=9745F5)](https://cesarschool.slack.com/team/U03UMFTL9QQ)-->
@@ -43,6 +52,7 @@
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=9745F5)
 ![Haskell](https://img.shields.io/badge/Haskell-black?style=for-the-badge&logo=haskell&logoColor=9745F5)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=9745F5)
+
 
 
  <!--
