@@ -12,6 +12,7 @@
 
 <!--[![Slack](https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=slack&logoColor=9745F5)](https://cesarschool.slack.com/team/U03UMFTL9QQ)-->
 [![LindIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9745F5)](https://www.linkedin.com/in/ester-acm/)
+ <!--Isso deveria continuar em contatos ou deveria estar em ferramentas?-->
 
 
 <h2>Estatisticas do Github:</h1>  
@@ -36,6 +37,7 @@
 
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=9745F5)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=9745F5)](https://www.kaggle.com/esteracm)
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=9745F5)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=9745F5)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=9745F5)
@@ -52,6 +54,7 @@
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=9745F5)
 ![Haskell](https://img.shields.io/badge/Haskell-black?style=for-the-badge&logo=haskell&logoColor=9745F5)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=9745F5)
+![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=9745F5)
 
 
 
