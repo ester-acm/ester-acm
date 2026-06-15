@@ -4,7 +4,6 @@
 - 🤖 Inteligência Artificial 
 - 🦾 Aprendizado de Máquina
 - 👩🏻‍💻 Full Stack
-- 🔐 Cibersegurança
 - ⚛️ Data Science
 
 </p>
