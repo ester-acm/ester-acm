@@ -26,7 +26,7 @@
 <a href="https://github.com/ester-acm/agentes"><img src="./assets/project-agentes.svg" width="49%" alt="Multi-Agent System: a software development workflow coordinating 12 specialized AI agents, with deterministic pipelines and human review gates. View repository." /></a>
 <a href="https://deuxie.com.br"><img src="./assets/project-deuxie.svg" width="49%" alt="Deuxie: my technology venture focused on digital products, custom software, web applications and intelligent automation. Visit Deuxie." /></a>
 <a href="https://sampaiogrossi.com.br"><img src="./assets/project-sampaio.svg" width="49%" alt="Sampaio Grossi: website for a law firm in Recife serving clients across Brazil. Visit website." /></a>
-<a href="https://xn--vistalunria-r7a.com.br"><img src="./assets/project-lunaria.svg" width="49%" alt="Vista Lunária: website designed and developed end to end. Visit website." /></a>
+<img src="./assets/project-lunaria.svg" width="49%" alt="Vista Lunária: website designed and developed end to end as part of my software engineering work." />
 
 <img src="./assets/heading-impact.svg" width="100%" alt="04 — Impact: AI and data in production" />
 
