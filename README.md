@@ -3,6 +3,7 @@
 <img src="./assets/hero.svg" width="100%" alt="Ester Carvalho — Founder @ Deuxie. Software Engineering, AI and Machine Learning. Recife, Brazil." />
 
 <a href="https://deuxie.com.br"><img src="./assets/btn-website.svg" height="40" alt="Visit deuxie.com.br" /></a>&nbsp;
+
 <a href="https://www.instagram.com/deuxie_tech/"><img src="./assets/btn-instagram.svg" height="40" alt="Instagram @deuxie_tech" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ester-acm/"><img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn in/ester-acm" /></a>
 
