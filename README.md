@@ -33,10 +33,10 @@
 <img src="./assets/spacer.svg" width="100%" alt="" />
 <img src="./assets/heading-github.svg" width="100%" alt="05 — GitHub Activity" />
 <img src="./assets/spacer.svg" width="100%" alt="" />
-<img width="49%" align="top" src="https://github-readme-stats.vercel.app/api?username=ester-acm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=E6EDF3&cache_seconds=86400" alt="GitHub statistics" />
-<img width="49%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ester-acm&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&langs_count=6&cache_seconds=86400" alt="Most used languages" />
+<img width="49%" align="top" src="https://github-readme-stats-nine-neon-90.vercel.app/api?username=ester-acm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=E6EDF3&cache_seconds=86400" alt="GitHub statistics" />
+<img width="49%" align="top" src="https://github-readme-stats-nine-neon-90.vercel.app/api/top-langs/?username=ester-acm&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&langs_count=6&cache_seconds=86400" alt="Most used languages" />
 <img src="./assets/spacer.svg" width="100%" alt="" />
-<img width="80%" src="https://streak-stats.demolab.com?user=ester-acm&background=0D1117&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=A78BFA&sideLabels=E6EDF3&dates=9CA3AF&stroke=2A2338" alt="GitHub contribution streak" />
+<img width="80%" src="https://streak-stats.demolab.com?user=ester-acm&background=0D1117&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=A78BFA&sideLabels=E6EDF3&dates=9CA3AF&stroke=2A2338&v=2" alt="GitHub contribution streak" />
 <img src="./assets/spacer.svg" width="100%" alt="" />
 <img src="./assets/footer.svg" width="100%" alt="Building businesses. Engineering software. Exploring intelligent systems. Ester Carvalho, founder at Deuxie, Recife, Brazil." />
 <img src="./assets/spacer.svg" width="100%" alt="" />
